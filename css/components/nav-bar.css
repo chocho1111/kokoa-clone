@@ -47,6 +47,7 @@
 @keyframes appearBtnAnimation {
   from {
     opacity: 0;
+    transform: translateY(50px);
   }
   to {
     transform: none;
